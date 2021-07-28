@@ -3,6 +3,7 @@
 
 
 The mains steps in the notebook1 :
+
 -Data Preparation to merge the 2015 and 2016 datasets
 -Data Processing in some columns values
   -Rows Selection
@@ -20,6 +21,7 @@ The mains steps in the notebook1 :
   -NaN KNN Imputer
 
 The mains steps in the notebook2 :
+
   -Data Preparation on rows and columns
   -Normalisation on numerical X
   -Dummies for categorical X
