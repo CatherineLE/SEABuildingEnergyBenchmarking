@@ -4,7 +4,7 @@
 
 The mains steps in the notebook1 :
 
--Data Preparation to merge the 2015 and 2016 datasets
+-Data Preparation to merge the 2015 and 2016 datasets \
 -Data Processing in some columns values
 -Rows Selection
 -Duplicates on OSEBuildingID column
