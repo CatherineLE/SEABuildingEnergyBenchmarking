@@ -15,7 +15,7 @@ The mains steps in the notebook 1 :
 -Exploratory Data Analysis \
 -Correlation Matrix to avoid correlation between variables \
 -Correlation Analysis between X and y \
--Correlation ANalysis between categorical and numerical variables \
+-Correlation Analysis between categorical and numerical variables \
 -Final Features Selection \
 -NaN imputer methods comparison  \
 -NaN KNN Imputer 
