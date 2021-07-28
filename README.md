@@ -18,7 +18,7 @@ The mains steps in the notebook1 :
 -Correlation ANalysis between categorical and numerical variables \
 -Final Features Selection \
 -NaN imputer methods comparison  \
--NaN KNN Imputer \
+-NaN KNN Imputer 
 
 The mains steps in the notebook2 :
 
@@ -30,9 +30,9 @@ The mains steps in the notebook2 :
 -Train and Performance Measures on train and test sets to select the bes model : AdaBoost  \
 -Scatter plot between y_test and y_pred for all models \
 -Importance variable with the best model selected AdaBoost \
--GridSearch for Hyperparameters on AdaBoost without and with ENERGYSTARScore to compare \
+-GridSearch for Hyperparameters on AdaBoost without and with ENERGYSTARScore to compare 
 
 Finally, the best model is : 
 
   -AdaBoost without ENERGYSTARScore and without GridSearch for y = GHGEmissions(MetricTonsCO2e) \
-  -AdaBoost without ENERGYSTARScore for y = SiteEnergyUse(kBtu) \
+  -AdaBoost without ENERGYSTARScore for y = SiteEnergyUse(kBtu) 
