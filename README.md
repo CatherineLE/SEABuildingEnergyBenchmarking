@@ -2,7 +2,7 @@
 11 Regression Models Comparision
 
 
-The mains steps in the notebook1 :
+The mains steps in the notebook 1 :
 
 -Data Preparation to merge the 2015 and 2016 datasets \
 -Data Processing in some columns values \
@@ -20,7 +20,7 @@ The mains steps in the notebook1 :
 -NaN imputer methods comparison  \
 -NaN KNN Imputer 
 
-The mains steps in the notebook2 :
+The mains steps in the notebook 2 :
 
 -Data Preparation on rows and columns \
 -Normalisation on numerical X \
