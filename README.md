@@ -1,5 +1,5 @@
 # SEABuildingEnergyBenchmarking
-11 Regression Models Comparision
+11 Supervised Regression Models Comparision
 
 
 The mains steps in the notebook 1 :
